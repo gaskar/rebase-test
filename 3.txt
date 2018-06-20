@@ -1,1 +1,2 @@
 MONIT-9428
+1) check rbac_phase_one
